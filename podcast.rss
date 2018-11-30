@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<atom:link rel="self" href="https://podcasts.subsplash.com/6sx6bsg/podcast.rss" type="application/rss+xml"/>
+
+		<title>Destiny Church Glasgow Podcast</title>
+		<itunes:author>Destiny Church</itunes:author>
+		<itunes:owner>
+			<itunes:email>dlr@destiny-church.com</itunes:email>
+			<itunes:name>Destiny Church</itunes:name>
+		</itunes:owner>
+
+		<itunes:summary>Join Senior Pastors Andrew &amp; Sue Owen and their team with these life-giving messages from Destiny Church Glasgow. </itunes:summary>
+		<description>Join Senior Pastors Andrew &amp; Sue Owen and their team with these life-giving messages from Destiny Church Glasgow. </description>
+
+		<itunes:image href="https://artwork.subsplash.com/images/cdn/00128740-7e66-47cc-89b7-ce1d6c894e84/1400/1400/image.jpg"/>
+
+		<itunes:category text="Religion &amp; Spirituality"/>
+		<language>en</language>
+		<copyright>&#xA9; 2018 Destiny Church</copyright>
+		<itunes:explicit>no</itunes:explicit>
+
+		<item>
+			<title>Destiny - Part 5: Today&#39;s the Day!</title>
+			<itunes:subtitle>Back to the Book &#39;Destiny&#39;</itunes:subtitle>
+			<itunes:author>Andrew Owen</itunes:author>
+			<itunes:summary>Join Senior Pastor as he unpacks &#39;Destiny&#39;  Study 4 - &#39;Tram Tracks and Sign Posts</itunes:summary>
+			<pubDate>Sun, 25 Nov 2018 10:00:00 +0000</pubDate>
+
+			<enclosure url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvRFJYV1A1L2UwMmYyZTc2LTBmMmEtNGU1Mi05MDE5LTUzNGM5NTJjMGU0Zi9hdWRpby5tNGE.m4a?k=DRXWP5&amp;s=3&amp;sapid=wpy92xx" length="0" type="audio/x-m4a"/>
+			<itunes:duration>2465</itunes:duration>
+			<itunes:image href="https://artwork.subsplash.com/images/cdn/0ee582c6-7dce-455e-bca7-5853af9631c9/1400/1400/image.jpg"/>
+			<itunes:order>1</itunes:order>
+			<guid isPermaLink="false">0e79e41ea8b81e20d707bcfffbd650b4</guid>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Destiny - Part 4: Tram Tracks and Sign Posts</title>
+			<itunes:subtitle>Back to the Book &#39;Destiny&#39;</itunes:subtitle>
+			<itunes:author>Andrew Owen</itunes:author>
+			<itunes:summary>Join Senior Pastor as he unpacks &#39;Destiny&#39;  Study 4 - &#39;Tram Tracks and Sign Posts</itunes:summary>
+			<pubDate>Sun, 18 Nov 2018 10:00:00 +0000</pubDate>
+
+			<enclosure url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvRFJYV1A1L2YxMjQxZWQ1LWYzODktNDcxYi1hMjExLTY5MWE3ZTAwZjEyNi9hdWRpby5tNGE.m4a?k=DRXWP5&amp;s=3&amp;sapid=4xtdsbv" length="0" type="audio/x-m4a"/>
+			<itunes:duration>2410</itunes:duration>
+			<itunes:image href="https://artwork.subsplash.com/images/cdn/2b3ec750-74eb-41c7-827c-4eac65ca9208/1400/1400/image.jpg"/>
+			<itunes:order>2</itunes:order>
+			<guid isPermaLink="false">96dce48b2d7c715a287d9ff99ae4df2d</guid>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Destiny - Part 3: Let the Future In!</title>
+			<itunes:subtitle>Back to the Book &#39;Destiny&#39;</itunes:subtitle>
+			<itunes:author>Craig Denham</itunes:author>
+			<itunes:summary>Join Lead Pastor Craig Denham as he unpacks &#39;Destiny&#39;  Study 3 - &#39;Let the Future In&#39;.</itunes:summary>
+			<pubDate>Sun, 11 Nov 2018 10:00:00 +0000</pubDate>
+
+			<enclosure url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvRFJYV1A1LzdlYTI0OTllLTY3NjEtNDMwNy05OTc4LWVmODdhYzJkNWI1MS9hdWRpby5tNGE.m4a?k=DRXWP5&amp;s=3&amp;sapid=nm5dtdb" length="0" type="audio/x-m4a"/>
+			<itunes:duration>2871</itunes:duration>
+			<itunes:image href="https://artwork.subsplash.com/images/cdn/31650c13-c958-4b10-b7b1-580b29d32b0b/1400/1400/image.jpg"/>
+			<itunes:order>3</itunes:order>
+			<guid isPermaLink="false">08f3d38eee09613b9773717f815e68ba</guid>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Destiny - Part 2: Finding Direction</title>
+			<itunes:subtitle>Back to the Book &#39;Destiny&#39;</itunes:subtitle>
+			<itunes:author>Andrew Owen</itunes:author>
+			<itunes:summary>Join Senior Pastor Andrew Owen as he unpacks &#39;Destiny&#39;  Study 2 - &#39;Finding Direction&#39;.</itunes:summary>
+			<pubDate>Sun, 04 Nov 2018 10:00:00 +0000</pubDate>
+
+			<enclosure url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvRFJYV1A1LzJlMzlhZDU0LWRlNmYtNGRhMi1hNjA0LTNlNzc0NzYxZjY3Ny9hdWRpby5tNGE.m4a?k=DRXWP5&amp;s=3&amp;sapid=gw426fv" length="0" type="audio/x-m4a"/>
+			<itunes:duration>2774</itunes:duration>
+			<itunes:image href="https://artwork.subsplash.com/images/cdn/b51d14e5-2833-4481-af44-02093b8624f2/1400/1400/image.jpg"/>
+			<itunes:order>4</itunes:order>
+			<guid isPermaLink="false">4da2438c060241fc5665835c226ad2ff</guid>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Destiny - Part 1: Why Am I Here?</title>
+			<itunes:subtitle>Back to the Book &#39;Destiny&#39;</itunes:subtitle>
+			<itunes:author>Andrew Owen</itunes:author>
+			<itunes:summary>Join Senior Pastor Andrew Owen as he unpacks &#39;Destiny&#39;  Study 1 - &#39;Why Am I Here?&#39;.</itunes:summary>
+			<pubDate>Sun, 28 Oct 2018 10:00:00 +0000</pubDate>
+
+			<enclosure url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvRFJYV1A1Lzc5MGNjZmNlLTFkMDUtNDE2ZC05MjM0LWNhNDkzNmY5MzYyMi9hdWRpby5tNGE.m4a?k=DRXWP5&amp;s=3&amp;sapid=22ywc4d" length="0" type="audio/x-m4a"/>
+			<itunes:duration>2835</itunes:duration>
+			<itunes:image href="https://artwork.subsplash.com/images/cdn/141e4dae-278b-45f7-8167-86d111c8f314/1400/1400/image.jpg"/>
+			<itunes:order>5</itunes:order>
+			<guid isPermaLink="false">cf8633f86b7c81e087ed034b1b9e9254</guid>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Mission Possible - Part 7: Join Me</title>
+			<itunes:subtitle>Join Me</itunes:subtitle>
+			<itunes:author>Andrew Owen</itunes:author>
+			<itunes:summary>&#34;Compromise is accepting what you don’t believe because you refuse to fight for what you do believe&#34;
+What convictions do you hold? Are you trying to choose God&#39;s call on your life?
+Senior Pastor Andrew Owen concludes the Mission Possible series asking if you&#39;ll stand for what you believe in? Join Andrew in the seventh and final instalment of the series; &#34;Join Me&#34;.</itunes:summary>
+			<pubDate>Sun, 30 Sep 2018 10:00:00 +0000</pubDate>
+
+			<enclosure url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvRFJYV1A1L2RhNjViMjZjLTBkOWYtNDg5OC1hNWQwLWI2ODI2YTU2NzcxOC9hdWRpby5tNGE.m4a?k=DRXWP5&amp;s=3&amp;sapid=cxb3548" length="0" type="audio/x-m4a"/>
+			<itunes:duration>2860</itunes:duration>
+			<itunes:image href="https://artwork.subsplash.com/images/cdn/ccdf01cf-3ff5-4e43-a36d-5ace3ee0ec68/1400/1400/image.jpg"/>
+			<itunes:order>6</itunes:order>
+			<guid isPermaLink="false">b9fb4664ca72a98c6a3cfb938ddab0eb</guid>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Mission Possible - Part 6: Obey Me</title>
+			<itunes:subtitle>Obey Me</itunes:subtitle>
+			<itunes:author>Chris Bailey</itunes:author>
+			<itunes:summary>&#34;Never be average again, it all starts with obeying God.&#34;
+Are you stuck in one place? Have you decided that it&#39;s time to move forward?
+Join our guest speaker Chris Bailey, as he brings the profound sixth instalment of the Mission Possible series &#34;Obey Me&#34;. 
+</itunes:summary>
+			<pubDate>Sun, 23 Sep 2018 10:00:00 +0000</pubDate>
+
+			<enclosure url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvRFJYV1A1Lzk1YzU4YTU5LWY1YzUtNGZmZC1iMzllLWUzM2I0ZGNiNTBkNy9hdWRpby5tNGE.m4a?k=DRXWP5&amp;s=3&amp;sapid=k5r33s4" length="0" type="audio/x-m4a"/>
+			<itunes:duration>2751</itunes:duration>
+			<itunes:image href="https://artwork.subsplash.com/images/cdn/437309e3-12ec-4544-b374-70481df13d9b/1400/1400/image.jpg"/>
+			<itunes:order>7</itunes:order>
+			<guid isPermaLink="false">a75baa55800fecdad527bd3308b2260f</guid>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Mission Possible - Part 5: Serve Me</title>
+			<itunes:subtitle>Serve Me</itunes:subtitle>
+			<itunes:author>Dan Owen</itunes:author>
+			<itunes:summary>&#34;God has designed His body - to grow. It&#39;s natural for it to grow.&#34;
+Are you getting involved with what He is doing? Are you ready and willing?
+Join Dan Owen as he continues to unpack what it means to truly serve in the fifth instalment of the Mission Possible series &#39;Serve Me&#39;.</itunes:summary>
+			<pubDate>Sun, 16 Sep 2018 10:00:00 +0000</pubDate>
+
+			<enclosure url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvRFJYV1A1LzVhZmMzZmQ2LTc5M2EtNDExNC1hNTRlLWY3YzNiNjNmNzk1NC9hdWRpby5tNGE.m4a?k=DRXWP5&amp;s=3&amp;sapid=4kphqyb" length="0" type="audio/x-m4a"/>
+			<itunes:duration>2580</itunes:duration>
+			<itunes:image href="https://artwork.subsplash.com/images/cdn/e4776337-1415-4ee5-9707-f7d2d38d3fc3/1400/1400/image.jpg"/>
+			<itunes:order>8</itunes:order>
+			<guid isPermaLink="false">cb6737f0ba5994754069ccbce195febf</guid>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Mission Possible - Part 4: Show Me</title>
+			<itunes:subtitle>Show Me</itunes:subtitle>
+			<itunes:author>Andrew Owen</itunes:author>
+			<itunes:summary>&#34;...being His disciples, we would be His representation, His reflection... as He is in this world&#34; What do people see when they look at you? What do you represent in this world?
+Join Senior Pastor Andrew Owen as he unpacks what it means to represent Jesus in the fourth instalment of the Mission Possible series &#39;Show Me&#39;.</itunes:summary>
+			<pubDate>Sun, 09 Sep 2018 10:00:00 +0000</pubDate>
+
+			<enclosure url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvRFJYV1A1LzE5NzVhODQ1LThiM2EtNDIzMS1hM2RmLTRjY2E5ZjczMTk4My9hdWRpby5tNGE.m4a?k=DRXWP5&amp;s=3&amp;sapid=cw4kz3h" length="0" type="audio/x-m4a"/>
+			<itunes:duration>3529</itunes:duration>
+			<itunes:image href="https://artwork.subsplash.com/images/cdn/60fdf018-9267-428a-9363-b831f7b2c074/1400/1400/image.jpg"/>
+			<itunes:order>9</itunes:order>
+			<guid isPermaLink="false">7cd4b8d90738e8cd90dc0d8ddfdd6616</guid>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Mission Possible - Part 3: Know Me</title>
+			<itunes:subtitle>Know Me</itunes:subtitle>
+			<itunes:author>Andrew Owen</itunes:author>
+			<itunes:summary>&#34;God is life, and knowing Him gives us abundant life&#34;
+What does it mean to know God? How can you get to know God? 
+Senior Pastor Andrew Owen continues the Mission Possible series by addressing these questions in the third instalment &#34;Know Me&#34;.</itunes:summary>
+			<pubDate>Sun, 02 Sep 2018 10:00:00 +0000</pubDate>
+
+			<enclosure url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvRFJYV1A1L2RmMzY4YTY4LTZmYTQtNDJmOS1hYTg5LWY4MDljMWI1MzBmYS9hdWRpby5tNGE.m4a?k=DRXWP5&amp;s=3&amp;sapid=syjnyrg" length="0" type="audio/x-m4a"/>
+			<itunes:duration>2611</itunes:duration>
+			<itunes:image href="https://artwork.subsplash.com/images/cdn/a21e175c-0419-44e5-b686-3f8ca042339c/1400/1400/image.jpg"/>
+			<itunes:order>10</itunes:order>
+			<guid isPermaLink="false">5b17aae3bdef401933b72cccd15640b8</guid>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Mission Possible - Part 2: Trust Me</title>
+			<itunes:subtitle>Trust Me</itunes:subtitle>
+			<itunes:author>Dan Owen</itunes:author>
+			<itunes:summary>“People don’t know who or what to trust in anymore…” 
+Where do you place your trust? Why can we trust God?
+Dan Owen continues the Mission Possible series with the second instalment &#39;Trust Me&#39;.</itunes:summary>
+			<pubDate>Sun, 26 Aug 2018 10:00:00 +0000</pubDate>
+
+			<enclosure url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvRFJYV1A1LzVjNGM0NzkyLWY2YWYtNDFlMy1hOWM3LWM2YzJmYzUyZjExYi9hdWRpby5tNGE.m4a?k=DRXWP5&amp;s=3&amp;sapid=fpbb9y9" length="0" type="audio/x-m4a"/>
+			<itunes:duration>2209</itunes:duration>
+			<itunes:image href="https://artwork.subsplash.com/images/cdn/1c726e73-6eee-4787-95bd-94a52644785d/1400/1400/image.jpg"/>
+			<itunes:order>11</itunes:order>
+			<guid isPermaLink="false">393f4f8cbe7f04e656d429721bedf4f4</guid>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Mission Possible - Part 1: Follow Me</title>
+			<itunes:subtitle>Follow Me</itunes:subtitle>
+			<itunes:author>Craig Denham</itunes:author>
+			<itunes:summary>&#34;the antidote to pointless living is to live for something greater than yourself.&#34;
+What do you think when you hear &#34;follow me&#34;? Is it an invitation, or a command?
+Pastor Craig Denham kicks off the Mission Possible series with a thought-provoking look at Jesus&#39; words to His people; &#34;Follow Me&#34;.</itunes:summary>
+			<pubDate>Sun, 19 Aug 2018 10:00:00 +0000</pubDate>
+
+			<enclosure url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvRFJYV1A1L2VkYzA1OGY1LTQ4YTAtNDhkNC1iMWVlLTYzNzY0OTI0NDk5OS9hdWRpby5tNGE.m4a?k=DRXWP5&amp;s=3&amp;sapid=xpqv4qc" length="0" type="audio/x-m4a"/>
+			<itunes:duration>2784</itunes:duration>
+			<itunes:image href="https://artwork.subsplash.com/images/cdn/7aa51c2c-8460-4e73-abb7-c51650851c0e/1400/1400/image.jpg"/>
+			<itunes:order>12</itunes:order>
+			<guid isPermaLink="false">398f618c4cb354d6784c0d1ddceccf55</guid>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Point of Contact - Part 6</title>
+			<itunes:subtitle>The Power and Significance of Communion</itunes:subtitle>
+			<itunes:author>Andrew Owen</itunes:author>
+			<itunes:summary>Join Senior Pastor Andrew Owen as he unpacks communion in a whole new way.</itunes:summary>
+			<pubDate>Sun, 08 Jul 2018 10:00:00 +0000</pubDate>
+
+			<enclosure url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvRFJYV1A1LzJjZDA2YmUwLTI1ZjItNGY0NC05ZGU1LTI1YmEwYjFjMThlZC9hdWRpby5tNGE.m4a?k=DRXWP5&amp;s=3&amp;sapid=qfs7nww" length="0" type="audio/x-m4a"/>
+			<itunes:duration>4513</itunes:duration>
+			<itunes:image href="https://artwork.subsplash.com/images/cdn/dc48e6a0-2aff-49de-8681-accfd32eb57d/1400/1400/image.jpg"/>
+			<itunes:order>13</itunes:order>
+			<guid isPermaLink="false">3d2b57d7d5a7c8bdf32c5506024002bc</guid>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Point of Contact - Part 5</title>
+			<itunes:subtitle>The Power and Significance of Communion</itunes:subtitle>
+			<itunes:author>Andrew Owen</itunes:author>
+			<itunes:summary>Join Senior Pastor Andrew Owen as he unpacks communion in a whole new way.</itunes:summary>
+			<pubDate>Sun, 17 Jun 2018 10:00:00 +0000</pubDate>
+
+			<enclosure url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvRFJYV1A1LzRhNDc2OTY0LWVlMDktNDg5Yi1iYjJjLWU1YjA0MWFiY2EyZC9hdWRpby5tNGE.m4a?k=DRXWP5&amp;s=3&amp;sapid=v2mtr5y" length="0" type="audio/x-m4a"/>
+			<itunes:duration>2399</itunes:duration>
+			<itunes:image href="https://artwork.subsplash.com/images/cdn/dc48e6a0-2aff-49de-8681-accfd32eb57d/1400/1400/image.jpg"/>
+			<itunes:order>14</itunes:order>
+			<guid isPermaLink="false">5223ddd097ff7d55f737d494fa8e310c</guid>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Point of Contact - Part 4 </title>
+			<itunes:subtitle>The Power and Significance of Communion</itunes:subtitle>
+			<itunes:author>Craig Denham</itunes:author>
+			<itunes:summary>Join Senior Pastor Andrew Owen as he unpacks communion in a whole new way.</itunes:summary>
+			<pubDate>Sun, 10 Jun 2018 10:00:00 +0000</pubDate>
+
+			<enclosure url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvRFJYV1A1LzczN2I4MTkzLTA2NGEtNGQ4Yy05NDViLWQ5NDcyYTI4ZjhhMC9hdWRpby5tNGE.m4a?k=DRXWP5&amp;s=3&amp;sapid=zhjr3kj" length="0" type="audio/x-m4a"/>
+			<itunes:duration>3859</itunes:duration>
+			<itunes:image href="https://artwork.subsplash.com/images/cdn/dc48e6a0-2aff-49de-8681-accfd32eb57d/1400/1400/image.jpg"/>
+			<itunes:order>15</itunes:order>
+			<guid isPermaLink="false">e1dab1967a8eb4931c792c9bbd2b580f</guid>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Point of Contact - Part 3</title>
+			<itunes:subtitle>The Power and Significance of Communion</itunes:subtitle>
+			<itunes:author>Andrew Owen</itunes:author>
+			<itunes:summary>Join Senior Pastor Andrew Owen as he unpacks communion in a whole new way.</itunes:summary>
+			<pubDate>Sun, 03 Jun 2018 10:00:00 +0000</pubDate>
+
+			<enclosure url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvRFJYV1A1L2UxMTlkNDliLTljMTktNDc3Mi05ZjZlLWEzMGU5YTM5OTQwMy9hdWRpby5tNGE.m4a?k=DRXWP5&amp;s=3&amp;sapid=fh4s8mv" length="0" type="audio/x-m4a"/>
+			<itunes:duration>4109</itunes:duration>
+			<itunes:image href="https://artwork.subsplash.com/images/cdn/dc48e6a0-2aff-49de-8681-accfd32eb57d/1400/1400/image.jpg"/>
+			<itunes:order>16</itunes:order>
+			<guid isPermaLink="false">e6d2e687b318b10e77b6afec4f547a09</guid>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Point of Contact - Part 2</title>
+			<itunes:subtitle>The Power and Significance of Communion</itunes:subtitle>
+			<itunes:author>Andrew Owen</itunes:author>
+			<itunes:summary>Join Senior Pastor Andrew Owen as he unpacks communion in a whole new way.</itunes:summary>
+			<pubDate>Sun, 27 May 2018 10:00:00 +0000</pubDate>
+
+			<enclosure url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvRFJYV1A1LzkzOTlhZjJmLTQ4M2ItNDdhYy1iYWExLTE0YjY1NzBlMmYwZS9hdWRpby5tNGE.m4a?k=DRXWP5&amp;s=3&amp;sapid=3twnhrd" length="0" type="audio/x-m4a"/>
+			<itunes:duration>3211</itunes:duration>
+			<itunes:image href="https://artwork.subsplash.com/images/cdn/dc48e6a0-2aff-49de-8681-accfd32eb57d/1400/1400/image.jpg"/>
+			<itunes:order>17</itunes:order>
+			<guid isPermaLink="false">b52a2ca133b6dd49ee0c88444346e2c7</guid>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+		<item>
+			<title>Point of Contact - Part 1</title>
+			<itunes:subtitle>The Power and Significance of Communion</itunes:subtitle>
+			<itunes:author>Andrew Owen</itunes:author>
+			<itunes:summary>Join Senior Pastor Andrew Owen as he unpacks communion in a whole new way.</itunes:summary>
+			<pubDate>Sun, 20 May 2018 10:00:00 +0000</pubDate>
+
+			<enclosure url="https://t.subsplash.com/r/aHR0cHM6Ly9jZG4uc3Vic3BsYXNoLmNvbS9hdWRpb3MvRFJYV1A1LzI4YzM3MjY5LTg5NjUtNDlkNC05YzFmLTEyZDFiYjA5OGE2NC9hdWRpby5tNGE.m4a?k=DRXWP5&amp;s=3&amp;sapid=s9j8qdj" length="0" type="audio/x-m4a"/>
+			<itunes:duration>3516</itunes:duration>
+			<itunes:image href="https://artwork.subsplash.com/images/cdn/dc48e6a0-2aff-49de-8681-accfd32eb57d/1400/1400/image.jpg"/>
+			<itunes:order>18</itunes:order>
+			<guid isPermaLink="false">f3d20c6f88930ed20b1b97265c3ee03f</guid>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+
+	</channel>
+</rss>
